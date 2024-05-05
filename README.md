@@ -51,8 +51,7 @@ You can modify the target email and other parameters directly in the script:
 let email = "testEmail@gmail.com"; // Target email address
 sendFlood(email);
 ```
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-[![Example Flood](https://i.imgur.com/uRM7rHe.mp4)]
+![Email Flood Testing GIF](https://cdn.discordapp.com/attachments/838974791716962304/1236784985357422652/uRM7rHe-1-ezgif.com-video-to-gif-converter.gif?ex=66394546&is=6637f3c6&hm=bf604298fa3d0bdcce8652ec39ae81dd5dbf2a0e6bd60808c95386e22961ce77)
 
 ## Responsible Use
 
