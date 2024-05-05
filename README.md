@@ -38,7 +38,7 @@ let floodMailUser = "YOUR_USERNAME_HERE"; // Replace with your Floodmail usernam
 To use the tool to test an email's spam filter, simply run the script with Node.js:
 
 ```bash
-node app.js
+node index.js
 ```
 
 This will execute a predefined email flood test against the email address specified in the script.
