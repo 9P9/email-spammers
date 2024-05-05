@@ -51,7 +51,8 @@ You can modify the target email and other parameters directly in the script:
 let email = "testEmail@gmail.com"; // Target email address
 sendFlood(email);
 ```
-![Example Flood](https://i.imgur.com/uRM7rHe.jpg)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+[![Example Flood](https://i.imgur.com/uRM7rHe.mp4)]
 
 ## Responsible Use
 
