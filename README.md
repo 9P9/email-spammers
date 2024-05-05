@@ -15,9 +15,9 @@ Node.js and npm can be downloaded from [nodejs.org](https://nodejs.org/).
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/yourusername/email-spammer.git
+git clone https://github.com/9P9/email-spammer.git
 cd email-spammer
-npm install
+npm install axios
 ```
 
 ## Configuration
